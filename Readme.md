@@ -1,8 +1,8 @@
 # Trabajo Integrador - Hidroponia Utilizando Arduino
-## Cátedra: Redes de Datos {#nombre-catedra}
-## Docente: Dr. Marcelo Julio Marinelli {#nombre-docente}
-## Carrera: Ingeniería en Sistemas de Información - Comisión "U" {#nombre-carrera}
+** Cátedra: Redes de Datos **
+** Docente: Dr. Marcelo Julio Marinelli **
+** Carrera: Ingeniería en Sistemas de Información - Comisión "U" **
 
-Elementos utilizados:
+## Elementos utilizados:
 - Arduino Mega 2560
 - DHT11
